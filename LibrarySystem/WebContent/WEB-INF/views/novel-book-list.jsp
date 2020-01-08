@@ -9,7 +9,7 @@
 </head>
 <body>
 	<div align="left">
-		Computer book List
+		<h1>Computer book List</h1>
 		<table border="1">
 			<tr>
 				<th>Name</th>
