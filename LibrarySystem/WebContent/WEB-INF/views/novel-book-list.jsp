@@ -23,7 +23,7 @@
 					<td><c:out value="${book.bookName}"></c:out></td>
 					<td><c:out value="${book.bookType}"></c:out></td>
 					<td><c:out value="${book.author}"></c:out></td>
-					<td><c:out value="${book.year}"></c:out></td>
+					<td align="center"><c:out value="${book.year}"></c:out></td>
 				</tr>
 			</c:forEach>
 		</table>
